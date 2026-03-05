@@ -1,0 +1,13 @@
+{
+  "name": "redirect-simples",
+  "version": "1.0.0",
+  "description": "Redirecionador dinamico com preservacao de UTMs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "build": "echo 'sem build'"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
